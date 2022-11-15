@@ -1,0 +1,13 @@
+[ag]
+population_size = 10
+num_parents = 5
+# tipos de seleccion  = "ruleta", "elite", "ranking"
+selection_method = "ranking"
+elite_size = 2
+mutation_rate = 0.5
+crossover_rate = 90
+#crossover_method = ‘one-point’, ‘two-point’, ‘uniform’
+
+
+[passcode]
+correct_passcode = "234AHLp91n"
